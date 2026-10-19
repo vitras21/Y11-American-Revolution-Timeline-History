@@ -1,18 +1,17 @@
 #######
 #
-# timelinejs-template
-# basic template for self-hosted TimelineJS
-# https://github.com/thecdil/timelinejs-template
+# american revolution timeline, history y11
+# https://github.com/vitras21/Y11-American-Revolution-Timeline-History
 #
 #######
 
 #######
 # SITE SETTINGS
 #
-title: timelinejs-template
-description: "basic template for self-hosted TimelineJS"
-year: 2020
-author: evan will 
+title: american revolution timeline, history y11
+description: "american revolution revision and hw task for y11 history"
+year: 2026
+author: vitras21
 # add search box to navbar, true/false
 search: false
 
