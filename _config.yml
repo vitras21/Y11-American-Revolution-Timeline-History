@@ -1,19 +1,19 @@
 #######
 #
-# american revolution timeline, history y11
-# https://github.com/vitras21/Y11-American-Revolution-Timeline-History
+# collection of Y11 timelines.
+# https://github.com/vitras21/Y11-Timelines
 #
 #######
 
 #######
 # SITE SETTINGS
 #
-title: american revolution timeline, history y11
-description: "american revolution revision and hw task for y11 history"
+title: Y11 Timelines
+description: "a collection of Y11 Interactive Timelines"
 year: 2026
 author: vitras21
 # add search box to navbar, true/false
-search: false
+search: true
 
 #######
 # SITE URLs
