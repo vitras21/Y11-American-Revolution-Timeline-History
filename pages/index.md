@@ -1,8 +1,8 @@
 ---
-title: Example Timeline
+title: American Revolution Timeline
 layout: page
 # add TimelineJS
-timeline: demo-timeline
+timeline: american-revolution-timeline
 timeline-options:
   hash_bookmark: true
 ---
