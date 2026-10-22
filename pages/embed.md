@@ -5,5 +5,5 @@ title: Example Timeline Embed
 # e.g. <iframe src="https://thecdil.github.io/timelinejs-template/embed.html" width='100%' height='600' frameborder='0'></iframe>
 layout: embed
 # add TimelineJS
-timeline: american-revolution-timeline
+timeline: american_revolution_timeline
 ---
