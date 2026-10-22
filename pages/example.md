@@ -1,8 +1,7 @@
 ---
 title: American Revolution
 nav: American Revolution
-type: csv
 nav_order: 1
 # Add timelinejs
-timeline-json: example-timeline.json
+timeline: american_revolution_timeline.csv
 ---
