@@ -1,8 +1,9 @@
 ---
-title: American Revolution Timeline
+title: Index
 layout: page
-# add TimelineJS
-timeline: american_revolution_timeline
-timeline-options:
-  hash_bookmark: true
 ---
+
+Hello and welcome to the Index. 
+In the top bar you may make use of the search bar, or indeed the labels to find the appropreate timeline.
+Thank you.
+- vitras21
